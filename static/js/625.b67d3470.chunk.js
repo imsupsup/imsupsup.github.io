@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktaeseop_personal=self.webpackChunktaeseop_personal||[]).push([[625],{9625:function(e,a,s){e.exports=s.p+"static/media/about.08c39029a0a0def0a2ca.md"}}]);
