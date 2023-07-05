@@ -12,18 +12,16 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me_3.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>TAESEOP PARK</h2>
+        <p><a href="mailto:tspark408@naver.com">tspark408@naver.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>서강대학교 전자공학과 학사 졸업<a href="https://sogang.ac.kr/">Sogang EE</a>\n
+        서강대학교 전자공학과 석사 졸업 in NICE LAB <a href="https://nice.sogang.ac.kr/">NICELAB</a>\n
+        서강대학교 전자공학과 박사 과정 in NICE LAB <a href="https://nice.sogang.ac.kr/">NICELAB</a>\n
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; TAESEOP PARK <Link to="/">imsupsup.github.io</Link>.</p>
     </section>
   </section>
 );
